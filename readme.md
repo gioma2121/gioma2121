@@ -56,10 +56,3 @@ I build things with LLMs, agents, and whatever it takes to turn messy data into 
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 
 ---
-
-### `~ stats`
-
-<p>
-  <img src="https://github-readme-stats.vercel.app/api?username=gioma2121&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=4A9EF7&icon_color=4A9EF7" width="48%">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gioma2121&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=4A9EF7" width="40%">
-</p>
