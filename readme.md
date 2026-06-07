@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,40:0f2952,100:1a5276&height=200&section=header&text=Giorgio%20Maria%20Maioli&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Data%20Science%20%26%20AI%20%E2%80%94%20MSc%20%40%20TU%2Fe&descAlignY=58&descSize=18" width="100%">
+![header](./header.svg)
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=900&color=4A9EF7&center=true&vCenter=true&width=520&lines=From+economics+to+deep+learning;Building+LLM+agents+%26+agentic+systems;MSc+Data+Science+%26+AI+%40+TU%2Fe)](https://git.io/typing-svg)
 
@@ -63,5 +63,3 @@ I build things with LLMs, agents, and whatever it takes to turn messy data into 
   <img src="https://github-readme-stats.vercel.app/api?username=gioma2121&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=4A9EF7&icon_color=4A9EF7" width="48%">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gioma2121&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=4A9EF7" width="40%">
 </p>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a5276,60:0f2952,100:0d1117&height=80&section=footer" width="100%">

@@ -1,0 +1,43 @@
+<svg viewBox="0 0 900 200" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#0d1117"/>
+      <stop offset="45%" stop-color="#0f2952"/>
+      <stop offset="100%" stop-color="#1a5276"/>
+    </linearGradient>
+    <linearGradient id="accent" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#1a5276" stop-opacity="0.6"/>
+      <stop offset="100%" stop-color="#4A9EF7" stop-opacity="0.3"/>
+    </linearGradient>
+    <linearGradient id="line" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#4A9EF7" stop-opacity="0"/>
+      <stop offset="30%" stop-color="#4A9EF7" stop-opacity="0.9"/>
+      <stop offset="70%" stop-color="#4A9EF7" stop-opacity="0.9"/>
+      <stop offset="100%" stop-color="#4A9EF7" stop-opacity="0"/>
+    </linearGradient>
+  </defs>
+
+  <!-- Background -->
+  <rect width="900" height="200" fill="url(#bg)"/>
+
+  <!-- Wave shapes -->
+  <path d="M0,145 C150,115 300,175 500,145 C650,120 780,165 900,148 L900,200 L0,200 Z" fill="url(#accent)"/>
+  <path d="M0,168 C120,148 280,185 460,162 C640,140 800,178 900,165 L900,200 L0,200 Z" fill="#4A9EF7" opacity="0.08"/>
+
+  <!-- Decorative dots -->
+  <circle cx="80" cy="55" r="2.5" fill="#4A9EF7" opacity="0.4"/>
+  <circle cx="110" cy="38" r="1.8" fill="#4A9EF7" opacity="0.3"/>
+  <circle cx="55" cy="80" r="1.5" fill="#4A9EF7" opacity="0.25"/>
+  <circle cx="820" cy="50" r="2.5" fill="#4A9EF7" opacity="0.4"/>
+  <circle cx="848" cy="70" r="1.8" fill="#4A9EF7" opacity="0.3"/>
+  <circle cx="800" cy="80" r="1.5" fill="#4A9EF7" opacity="0.25"/>
+
+  <!-- Accent line under name -->
+  <rect x="250" y="113" width="400" height="1.5" fill="url(#line)" rx="1"/>
+
+  <!-- Main name -->
+  <text x="450" y="88" font-family="'Segoe UI', Helvetica, Arial, sans-serif" font-size="40" font-weight="700" fill="#ffffff" text-anchor="middle" letter-spacing="1">Giorgio Maria Maioli</text>
+
+  <!-- Subtitle -->
+  <text x="450" y="132" font-family="'Segoe UI', Helvetica, Arial, sans-serif" font-size="16" font-weight="400" fill="#4A9EF7" text-anchor="middle" letter-spacing="0.5">Data Science &amp; AI — MSc @ TU/e · Eindhoven</text>
+</svg>
